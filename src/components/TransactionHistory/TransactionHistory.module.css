@@ -1,0 +1,12 @@
+.transactionTable {
+  border-spacing: 0em 0em;
+  border: 1px solid grey;
+  margin: 20px auto;
+  width: 450px;
+  text-align: center;
+}
+
+.transactionItem {
+  border: 1px solid grey;
+  padding: 6px 0;
+}

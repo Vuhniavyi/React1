@@ -1,0 +1,12 @@
+.pricingPlan {
+  display: flex;
+  justify-content: space-between;
+  margin: 0 auto;
+  width: 80%;
+  list-style: none;
+  padding: 20px;
+  background-color: #dbdbdb;
+}
+.item {
+  flex-basis: 31%;
+}
